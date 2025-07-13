@@ -1,0 +1,9 @@
+nerA/ 
+.venv/
+venv/
+env/
+
+# Ignorar caches de Python
+__pycache__/
+*.pyc
+
