@@ -1,0 +1,984 @@
+[Arthi Panduranga] 15:12:53
+Let me start the link. Okay. Okay. And, and tacito before we start, I reached out to Mary Doobe who is one of our police from the previous collaboration.
+
+[Arthi Panduranga] 15:12:58
+Experiences and she i've asked her to provide us context for SDK access right? Alternatively I think you are done copy on that email.
+
+[Tácito Henrique] 15:13:06
+Great.
+
+[Arthi Panduranga] 15:13:12
+Alternatively I wanted to check if If this route is not available, could we do it from outside like, you know, from semantic being a development team, look for licenses paid Zoom licenses.
+
+[Arthi Panduranga] 15:13:25
+I don't know how it works. But that's something we should look at because I don't want to stop the development just because of this reason.
+
+[Tácito Henrique] 15:13:33
+Okay, we, today we show some options about that. We are thinking to how you can confirm this problem.
+
+[Tácito Henrique] 15:13:41
+And we found, Ezra Service that can help us about this point.
+
+[Arthi Panduranga] 15:13:47
+Okay, good.
+
+[Tácito Henrique] 15:13:47
+Okay, I would like to share with you this point today. I will start to does it right now.
+
+[Tácito Henrique] 15:13:58
+Just sharing my screen.
+
+[Tácito Henrique] 15:14:06
+Hey, so everyone see my screen? You can start today.
+
+[Arthi Panduranga] 15:14:11
+Yeah.
+
+[Tácito Henrique] 15:14:13
+Okay, okay, we today talk a little bit about our tech sync. Bring your third sprint this is print as command delivers the concept scenarios.
+
+[Tácito Henrique] 15:14:28
+And would you like to show some technical roads that we can? Execute this year for this project. We can access all tasks.
+
+[Tácito Henrique] 15:14:38
+On this link and as we're developed. I believe that everyone has. Access for these Azure DevOps, that's right.
+
+[Tácito Henrique] 15:14:48
+So we can if you would like to see, detailed tasks. You can access this link.
+
+[Tácito Henrique] 15:14:54
+Okay. About this device. I started to buy process. The 2 units of the Sun, the Gallax tab as 9.
+
+[Tácito Henrique] 15:15:05
+And tell me, I chose this device because the the processor is newer And the Android version is the new version.
+
+[Tácito Henrique] 15:15:17
+And has the more lightweight. Device that we found in this. Options that we collected last meeting.
+
+[Arthi Panduranga] 15:15:26
+What these are pen enable, right? Samsung is. What about Jeremy? Jean.
+
+[Tácito Henrique] 15:15:31
+The sounds, was the, was selected because this version has more memory that we already taking here in Here in Sematech, our set S and 7 has on 6 GB of memory and can be yet some eachways running LLMs locally.
+
+[Tácito Henrique] 15:15:52
+If you can't, concept. Okay, to you?
+
+[Arthi Panduranga] 15:15:54
+Okay. No, Jobi, is Jamie, Pen enabled?
+
+[Tácito Henrique] 15:16:02
+Yes, the Tommy has a a support or a pen. But we need to test because the some videos that we found Let me clear if it's a capacity pen, but I need to identify what the right plane that you use it but we can use some kind of p with them.
+
+[Arthi Panduranga] 15:16:24
+Yeah.
+
+[Tácito Henrique] 15:16:27
+Okay.
+
+[Tácito Henrique] 15:16:29
+I believe that we cut this device, communicate with you and the CEO about that.
+
+[Arthi Panduranga] 15:16:36
+Got it.
+
+[Tácito Henrique] 15:16:38
+We, today, would like to share with you some points. About the running L LMs locally and run LLMs in cloud.
+
+[Tácito Henrique] 15:16:50
+What the difference between them, what we expect with them and what the market seeing about this point. Okay, let's start about the.
+
+[Tácito Henrique] 15:16:59
+Research. The garden and conduct our research about that. Talk about the new ways of AI powered solutions.
+
+[Tácito Henrique] 15:17:11
+And is talk about about gen AI. I running on smartphone and PC. And there research that Arnett conducted that, telling the the devices running AI or AI chips.
+
+[Arthi Panduranga] 15:17:26
+Yes! Yes! Before
+
+[Tácito Henrique] 15:17:30
+We will please. On 24. This is very important. Point of this the research that It's, for a market it's a natural natural step.
+
+[Arthi Panduranga] 15:17:38
+Thank you.
+
+[Tácito Henrique] 15:17:50
+For these times that. Li is more common on their side. The main point of this is research is the growth of this market.
+
+[Tácito Henrique] 15:18:03
+I believe the market of the local L. And and device with some kind of support for AI we will you grow over the years.
+
+[Tácito Henrique] 15:18:18
+They share it with us. A graph that's very interesting graph. In 2023 the market its own in But in 25 they will believe.
+
+[Tácito Henrique] 15:18:33
+The AI will be present in 40, of pieces of the market. That's a very important point because we can.
+
+[Tácito Henrique] 15:18:45
+The one can we can see that we are on the right step right now. Thinking in AI running on the tablets on on the laptops.
+
+[Tácito Henrique] 15:18:55
+But the great question of these. New way of generating generation of AI is they how are the We spend the morning on this era.
+
+[Tácito Henrique] 15:19:10
+Today the research don't find any any point that support to the end the user will spend. And some money if they the price current price because we don't see the valley of the solution right now.
+
+[Tácito Henrique] 15:19:30
+There are a lot of concern about the privacy. A lot of concert about the And, how this solution can integrated the daily routing of the user.
+
+[Arthi Panduranga] 15:19:33
+Exactly.
+
+[Tácito Henrique] 15:19:42
+So this is the point we can. Focus on these research easier because we can bring to the market a new way of the using DZI POWERED devices.
+
+[Tácito Henrique] 15:19:55
+I believe that.
+
+[Arthi Panduranga] 15:19:55
+And then 2 aspects to this, right? One is I just put in the chat the world's report which talks about Intel planning 100 million AI PCs by next year.
+
+[Tácito Henrique] 15:20:07
+Great.
+
+[Arthi Panduranga] 15:20:08
+Why? Why you're planning the AI PCs, all these PCs powered with NPUs are going to Also challenge, why should I put those extra dollars?
+
+[Arthi Panduranga] 15:20:20
+When maybe I can run a co-pilot today as well right on this on the regular PC as well and that's why the angle of So the way we are looking at this is why AI?
+
+[Arthi Panduranga] 15:20:33
+Why AI on the edge? And why hitchp's AI, PC, right? So that's how we are trying to corroborate the message right now.
+
+[Arthi Panduranga] 15:20:43
+Within HP. But then to your point, yes PCs will be AI enabled but will they be working on the edge or will they still leverage cloud is still a big question mark and for us we want to play on the edge.
+
+[Tácito Henrique] 15:20:59
+Okay, I have 2 questions about that. The first question is about the HP device. How they are getting just market today.
+
+[Tácito Henrique] 15:21:12
+NPC with AI supported by the HP. Or
+
+[Arthi Panduranga] 15:21:14
+I know the first one, sir, is first ones are going to come in. If I'm not wrong, I just got the Timeline, there's gonna be one with Qualcomm by June.
+
+[Arthi Panduranga] 15:21:26
+AMD by September and Intel's Lunar Lake by end of year. Followed by Meteor late next year.
+
+[Tácito Henrique] 15:21:34
+Hmm
+
+[Arthi Panduranga] 15:21:35
+So All these species are in the making right now, they're coming out. As they are coming out we just don't want to be yet another PC in the market but if we can create those differentiated experiences and this and then say hey.
+
+[Arthi Panduranga] 15:21:49
+This is an AIPC. These are the features for which you need to invest in a Hitchp.
+
+[Arthi Panduranga] 15:21:55
+A IPC versus a D or a LENGO or even Apple.
+
+[Tácito Henrique] 15:21:57
+Another question that that I has is about the capturing of the new generation. I believe that this new AICs will be migrated to ARM architecture.
+
+[Tácito Henrique] 15:22:10
+Because the demise phone already, and this will soon have a high investment. You, with And I believe that we can aim in the next project, for example, as some solution, running on ARM, because today we are only running AI in X, 86 architectural, but we need to think.
+
+[Arthi Panduranga] 15:22:14
+Hmm.
+
+[Arthi Panduranga] 15:22:19
+Yeah.
+
+[Tácito Henrique] 15:22:37
+How you can migrate to a new account tree in the future. Or how you can improve the using things or RT, for example, that our distance or RT is a new trajectory can improve AI models.
+
+[Arthi Panduranga] 15:22:40
+I think you're right.
+
+[Tácito Henrique] 15:22:53
+For running in your. Mactory for example. So we had a lot of opportunities if we can.
+
+[Tácito Henrique] 15:23:00
+Thinking in a new activity in the future.
+
+[Arthi Panduranga] 15:23:05
+I agree. I agree to that but I do not I'm not technically a well versed to say whether the teams are looking at moving from x.
+
+[Arthi Panduranga] 15:23:13
+86 to arm but I'm sure that's one area that the teams are already looking at.
+
+[Tácito Henrique] 15:23:19
+Great. In this research, We found some advances of the running BI locally. The most vantage that we advantage that we found is about the privacy.
+
+[Tácito Henrique] 15:23:33
+It's an enemies that the privacy is the main value that we get. Running these. Llms locally.
+
+[Tácito Henrique] 15:23:42
+Another another point it's about the depending of the good connections with running Luckily, we can running our early AMs, our solutions without internet.
+
+[Tácito Henrique] 15:23:56
+So the internet in remote. Please or in some place that connection. It's not great quick call.
+
+[Tácito Henrique] 15:24:04
+This solution can be very interesting. Another point is about the cost savings because running on the cloud we day we have a higher price too because the diverse is very very high in And so this got to be beat.
+
+[Tácito Henrique] 15:24:23
+Then lose the call through. Easily, if you don't have a good Telemetry server for these AI costs.
+
+[Tácito Henrique] 15:24:32
+And we can improve the customization running locally. When you run locally the modules we can adopt.
+
+[Tácito Henrique] 15:24:42
+D the model for the user needs. In the cloud, the AI model need to be a general model to run for a lot of people.
+
+[Tácito Henrique] 15:24:53
+Running locally we can make the AI for RT, AI for Lateesia, AI for Gabriel, we can improve in contexting learning in this case.
+
+[Tácito Henrique] 15:25:05
+There's a very, yeah.
+
+[Arthi Panduranga] 15:25:05
+You can putt personalize. I kind of get the point. I have a couple of comments, right?
+
+[Tácito Henrique] 15:25:12
+Sure.
+
+[Arthi Panduranga] 15:25:14
+Because we are, I mean, Tabin and I were building out the HP value proposition for ISVs when it comes to running AI on the edge.
+
+[Arthi Panduranga] 15:25:21
+So when I look at it, no. If it is non-critical. Tusk, right?
+
+[Arthi Panduranga] 15:25:29
+Then does it? I mean does it justify to be on the edge? Can it not be on the cloud?
+
+[Arthi Panduranga] 15:25:34
+I'm definitely sure for real-time processing it could be surgeries it could be on a manufacturing floor it could even be in a retail store where you have to worry about fraud detection and test and all of that where real-time processing is required and even if you do not have connection you still have the ability to detect, train and do the inferencing.
+
+[Arthi Panduranga] 15:25:58
+But in non-critical modes right like say Transcriptions or not taking I don't know how much of a non real time it would be but then for our case We should still be able to justify yes running on the edge is gonna help you so much more because obviously the privacy and security is is the first thing that anybody talks about when we say run it on the edge right cost I am not sure about the cost because
+
+[Tácito Henrique] 15:26:29
+Yes.
+
+[Arthi Panduranga] 15:26:33
+the elements are so huge these days and the servers are having the capability to do so much of computation.
+
+[Arthi Panduranga] 15:26:42
+Will my PC of any computer, any compute? Specification be good enough to run these elements? Will the performance not go slow?
+
+[Arthi Panduranga] 15:26:55
+Will I ultimately decide to move it to the cloud is my second question.
+
+[Tácito Henrique] 15:26:58
+The very very good point for today about the the computational cost. We have quantization techniques. Geneva, Make some, low weight.
+
+[Tácito Henrique] 15:27:17
+Lightweight LLL, still running for specific tasks. That's we are researching right now.
+
+[Tácito Henrique] 15:27:24
+We are right to understand. How we can run LLMs to do the specifically. Tasks and without you add don't use all of memory of the PC of the CPU of PC.
+
+[Tácito Henrique] 15:27:40
+Or GPU. And but this is the main, the main, problem to running locally.
+
+[Tácito Henrique] 15:27:50
+The cost offer. The cost to running these models. Okay.
+
+[Tácito Henrique] 15:28:04
+Yeah, another point is that the event is to running locally. The main point, the intensive comes from insurance service.
+
+[Tácito Henrique] 15:28:13
+I for today, we need, laptop with our a GPU or a high memory.
+
+[Tácito Henrique] 15:28:24
+A high storage because some alleleiums have a lot of space on the disk. This is a very good, very bad problem.
+
+[Tácito Henrique] 15:28:34
+The size of the models today is very bigger. The problem for today. Another point is about this lower response.
+
+[Tácito Henrique] 15:28:46
+This is the the point I did like to ask to you about the time of response of AI. This question is very important true for us, for example.
+
+[Tácito Henrique] 15:28:56
+And local tests. We I'm running some kind of LLM and sometimes I have about 200
+
+[Tácito Henrique] 15:29:09
+300 s. To get some quality of response personalization, for example. I'm a running at 32 GB of memory.
+
+[Tácito Henrique] 15:29:20
+And the GPU. Or you go by and I'm still get a slow response sometimes. This point is very important to shows running locally AI.
+
+[Arthi Panduranga] 15:29:28
+Hmm.
+
+[Tácito Henrique] 15:29:35
+What do you think about that?
+
+[Arthi Panduranga] 15:29:37
+Yeah, that's a good one, right? I mean all the points that you raise here of running it locally.
+
+[Arthi Panduranga] 15:29:42
+That's where I think we should take a take a. Firstly, I think we should take a hybrid approach.
+
+[Arthi Panduranga] 15:29:48
+And not just do 0 or one, we should try to have an approach where hey for very intense computation maybe you should go to the cloud for something real time just capturing the data maybe you do it offline or maybe do the influencing on the PC and training in the cloud. I don't know.
+
+[Tácito Henrique] 15:29:50
+Okay.
+
+[Arthi Panduranga] 15:30:12
+I'm thinking loud with you and as far as responses go. I understand even today, right?
+
+[Arthi Panduranga] 15:30:20
+I'll just take the case of Miro. When I use METO for a long time, it starts to slow down.
+
+[Arthi Panduranga] 15:30:27
+It's talking to the cloud, there's nothing much used on my PC other than my CPU and memory and everything.
+
+[Arthi Panduranga] 15:30:34
+But I can see that the fan speed on my PC also increases. If I start to add more and more on Mero and it starts crashing, I would actually like to see that the that that is a leverage of the local resources.
+
+[Arthi Panduranga] 15:30:49
+And it can start to I mean with AI models with anything out there. It's starts to use the local resources such as the CPU, GPU, even the inf that's going to come up with the AIPCs.
+
+[Arthi Panduranga] 15:31:03
+To do better rather than you know just be this Yeah, I am an AI running locally. That means I can hog up all the resources.
+
+[Arthi Panduranga] 15:31:14
+I can take all the tops and I can still run slow. That is not going to be acceptable.
+
+[Tácito Henrique] 15:31:21
+Okay.
+
+[Arthi Panduranga] 15:31:22
+I'll give you another example, right? So let's take the case of the beep fake.
+
+[Arthi Panduranga] 15:31:28
+Now in this call let's say somebody joined who is not part of a D. And we want a real-time detection of someone who is trying to impersonate or someone who is trying to join the call and trying to take the confidential data from us.
+
+[Arthi Panduranga] 15:31:45
+If the LLM, sorry if the AI capability is on the PC or on the device that we are working for.
+
+[Tácito Henrique] 15:31:56
+Hmm.
+
+[Arthi Panduranga] 15:31:56
+And if it takes more than a minute or 2 to just figure out that one of us is impersonating or one of us is a deep fake.
+
+[Arthi Panduranga] 15:32:05
+Then it's too late.
+
+[Arthi Panduranga] 15:32:10
+Right? Loud or not club. I know today people are doing it on the cloud but I would rather say doing it locally should give me results faster than doing it on the cloud.
+
+[Tácito Henrique] 15:32:11
+Okay.
+
+[Arthi Panduranga] 15:32:23
+If those are the use cases that we want to tap on, that's what we should do because If somebody is on the call in 10 Si want to throw them out of the call then having that inferencing and that intelligence locally is so much more useful to me.
+
+[Arthi Panduranga] 15:32:44
+I don't know the help out of it, Tacito. I'm talking as a yet as a end user.
+
+[Tácito Henrique] 15:32:45
+Okay.
+
+[Arthi Panduranga] 15:32:50
+What is it that I see as the most important when I work with any features related to AI?
+
+[Tácito Henrique] 15:32:58
+Right now we are cadet your research treated by our user cases that you like to pilot it easier than to understand how this how user case is more combo to runny locally.
+
+[Tácito Henrique] 15:33:11
+They know how and their user case need to be more a higher hardware tool to deliver more. Policy services.
+
+[Tácito Henrique] 15:33:21
+We are focused on the specific tasks. Because we we are running specific tasks and in the AI may be a better way for this problem to run in locally.
+
+[Arthi Panduranga] 15:33:34
+Yeah.
+
+[Tácito Henrique] 15:33:34
+But this research is still runny. The one big problem we has today is the deploying.
+
+[Tácito Henrique] 15:33:43
+Deploying models locally is a very complex test. Because they upgrade the version of operation system, the drivers scallops locally the GPU, strategy locally it's very complex to determine.
+
+[Tácito Henrique] 15:34:00
+And to turning the GPU, the models for that, for example. The most models running on in GPU.
+
+[Tácito Henrique] 15:34:09
+With any videos driver. Dami, is very difficult to run in some models. Example. We try to understand how you can create a container.
+
+[Arthi Panduranga] 15:34:13
+Hmm.
+
+[Tácito Henrique] 15:34:21
+For this model to run in locally without to bring the complexity to off the setup. Of these AI models is some kind of of things that we are right now studying.
+
+[Tácito Henrique] 15:34:34
+But this is the
+
+[Arthi Panduranga] 15:34:35
+Thingo is Dk's. Aren't there no SDKs or libraries that should help you put your features faster than, you know, we reinventing the wheel.
+
+[Arthi Panduranga] 15:34:45
+I've seen things like latent AI. Could you take a look? Latent AI is a company and I think I've seen a couple of more Maybe I'm wrong, but I was just trying to see if it's all the D and SDK with the ability to develop, to containerize, to deploy AI features with without you having to worry about the infrastructure around it.
+
+[Tácito Henrique] 15:35:12
+I, I need about that. There are some solutions for, It's a very interesting solution for I.
+
+[Arthi Panduranga] 15:35:15
+Hmm.
+
+[Tácito Henrique] 15:35:23
+When you're trying to use some open source solutions for this project. But if you have some, opportunity to use these.
+
+[Tácito Henrique] 15:35:35
+Solution for market will be very interesting for our our project. I can. Study how you can implement this solution from our project.
+
+[Tácito Henrique] 15:35:46
+And how the cost of use it then. For us. I believe that can be very interesting solution. If we can use that.
+
+[Tácito Henrique] 15:35:56
+We are trying to use some frameworks. For example, Tersel flow, So, Regus did.
+
+[Tácito Henrique] 15:36:07
+The complexity of to implement this. Module but the distribution will be something that we need to research a little bit more 2 Get the right the right solution for our project.
+
+[Arthi Panduranga] 15:36:20
+Yeah.
+
+[Tácito Henrique] 15:36:24
+Okay. This is, we're using latent AI can be a very good solution. But we are try to use some kind of open source solution for that.
+
+[Arthi Panduranga] 15:36:34
+No, I just saw latent air as one of the options you could look for open source as well.
+
+[Arthi Panduranga] 15:36:40
+The other question I had was you said the setup is much more complex. Locally as setting it up online again Could we do something around the install base to set it up with some default configurations or it's going to be a challenge when you try to do it locally.
+
+[Tácito Henrique] 15:37:01
+We're trying to create some kind of template. Of this models with this predefined configurations.
+
+[Arthi Panduranga] 15:37:06
+Right.
+
+[Tácito Henrique] 15:37:11
+For defining, weights. Predefined it, some configurations. And encapsulate everything in a like container, some kind of container.
+
+[Tácito Henrique] 15:37:23
+I running docker on another, technology. Technological solution. But this is still in research.
+
+[Tácito Henrique] 15:37:33
+I'm not right now the right technology we can use for that. But container can be very good opportunity for us.
+
+[Arthi Panduranga] 15:37:43
+I'm still.
+
+[Tácito Henrique] 15:37:44
+Okay. About the advantage to running in the cloud just models. In the code, we had a lot of the advantage, we can increase the processing capacity.
+
+[Tácito Henrique] 15:37:58
+We can increase. The accessibility of these modules. We can increase. The integration of with another services because in the cloud we can create some.
+
+[Tácito Henrique] 15:38:12
+MEWS to integrate with another plugins and other solutions. The main things will be more easy.
+
+[Tácito Henrique] 15:38:20
+And we don't spend some time to create some. It's some solutions to running in our device because the cloud is a gnostic device.
+
+[Tácito Henrique] 15:38:36
+Advantage of running cloud is the operation cost. They higher and maybe who run in that single user can be in validate to half the project or any only if you only want one in one user.
+
+[Tácito Henrique] 15:38:51
+But with, this user can be very interesting. Running cloud. The latency can be a problem that in your connection we can get some latency on the response of EI.
+
+[Tácito Henrique] 15:39:05
+And, we are totally dependent on internet connection. And the bandwidth of your network.
+
+[Arthi Panduranga] 15:39:11
+Do you see security and privacy as a concern too?
+
+[Tácito Henrique] 15:39:15
+Yes, it's invented off running in the cloud and previous can be a problem. Today we have a solution for that, for example, if you are using GPT enterprise.
+
+[Tácito Henrique] 15:39:28
+We can run in context with some kind of privacy but is every time you had some kind of questions about that if the you were really security about that.
+
+[Tácito Henrique] 15:39:41
+Today running the cloud, the i does not guarantee the, the off your office, does that prove? But, with there are some ways to do that.
+
+[Tácito Henrique] 15:39:55
+But in the locally, it's truly the best way to guarantee the So, so do you use a local, For example, if you need to use some macro models, with less super busy to provision and be very good to use L LE locally.
+
+[Arthi Panduranga] 15:40:02
+So.
+
+[Tácito Henrique] 15:40:18
+If you have, some kind of personalization of your model. Of you need better privacy and cost savings running luckily is the best way.
+
+[Tácito Henrique] 15:40:29
+But we need considering the complexity of the setup. You running on the web. We have 3 templates to bookstrap.
+
+[Tácito Henrique] 15:40:40
+Some solutions we can quickly integrate anything in our solution but we have some concerns about the data because when he, we get free online services, the user and the data will be the product.
+
+[Tácito Henrique] 15:40:59
+Right now we have not different answers about that. Maybe, some kind of a hybrid solution can be very good.
+
+[Tácito Henrique] 15:41:08
+Acer for ad for that project But we need to think a little bit more about the privacy. And the context that we sent for the data to both can be very good in the future.
+
+[Tácito Henrique] 15:41:24
+About that I need to understand about the HP. How do you think about that? What the right way for us for this project, we running locally with We need to running online or maybe hybrid solution.
+
+[Tácito Henrique] 15:41:40
+We need to think about the autonomous device, how How autonomous, it can be understand on our project.
+
+[Tácito Henrique] 15:41:51
+That's very good question for us today. What kind of task did and what kind of desk is about maybe integrative with PC.
+
+[Arthi Panduranga] 15:42:04
+I think so. Yes. And I think that will give us the best answer of how we approach this and I personally believe, going the hybrid route will help us.
+
+[Arthi Panduranga] 15:42:15
+Because that way we are not taxing. We are At the end of the day, our purpose is to provide the best user experience all the time.
+
+[Arthi Panduranga] 15:42:23
+So if we if we aim for that then I would suggest we do a hybrid approach.
+
+[Tácito Henrique] 15:42:29
+Okay. Okay. I, I, an exit, touch it some reference to you. The garden, the present leaves, some Interesting, reads that you would like to know about this, points that I here today.
+
+[Tácito Henrique] 15:42:50
+Let's talk a little bit about the project at TETRI. Our suggestion for the concept of microkernel plugins.
+
+[Tácito Henrique] 15:42:58
+This architecture has some scopes. Would you like to some kind of credibility flexibility, accessibility and security for our solution.
+
+[Tácito Henrique] 15:43:13
+Some requirements very important for us is about the hetero compatibility with the last version, the V one version.
+
+[Tácito Henrique] 15:43:21
+And we need to some kind of synchronization. Solution. Unified code base, one language for solve all problems.
+
+[Tácito Henrique] 15:43:32
+And need to be cross platform. The main scope that we focus to design these. I'll set the actress concept.
+
+[Tácito Henrique] 15:43:43
+Okay. The first part of this concept is about the core API.
+
+[Arthi Panduranga] 15:43:48
+That's it. This is not necessarily because of AI, right? It's even With or is it a It's a complete solution which is the active concept which we want to get to.
+
+[Tácito Henrique] 15:43:54
+Is they all solution?
+
+[Tácito Henrique] 15:43:58
+Yeah, just complete solution.
+
+[Arthi Panduranga] 15:44:02
+Okay, scalability, flexibility, extensibility and security. Okay.
+
+[Tácito Henrique] 15:44:05
+Yeah, that's right.
+
+[Tácito Henrique] 15:44:08
+The first component of the directory, this decor API, decor APIs.
+
+[Arthi Panduranga] 15:44:12
+Sorry, I have a no question. Sorry to interrupt. I have another question. If you remember we spoke about the the last time we spoke about Can the I mean it's probably an advanced discussion to have beyond your core principles here is If after after phase 2, now we are running the phase 2 where we are bringing the active concept.
+
+[Arthi Panduranga] 15:44:38
+If you have just a render meaning just a portable display or you have a device with full compute. Can PDW run in both modes for the question?
+
+[Arthi Panduranga] 15:44:54
+I remember asking you this couple of weeks back. So is that something you have accounted for in your architecture today?
+
+[Tácito Henrique] 15:44:55
+Yes.
+
+[Tácito Henrique] 15:45:01
+You asking me about that? We are thinking about that. I believe that some kind we don't.
+
+[Tácito Henrique] 15:45:09
+The compatibility of with 2 actresses. Because the activity architecture is not the same activity of the passive concept.
+
+[Tácito Henrique] 15:45:20
+But I believe that we can create 2 kinds of software. Well, one distribution for basic, another distribution.
+
+[Tácito Henrique] 15:45:29
+Activity. What's the problem of basic today? It's about the dependence of the space death solution.
+
+[Arthi Panduranga] 15:45:37
+Yes. Okay.
+
+[Tácito Henrique] 15:45:37
+The space day solution. At release some new terms in this year. To limit that for For this year, the Space Desk can be can't be used to a
+
+[Arthi Panduranga] 15:45:51
+Hmm, okay, understood. Can we add this to one of the? Understood. Can we add a slide on this and keep it somewhere so if people ask us why what we can at least have a reference to it because I believe this discussion will come up.
+
+[Tácito Henrique] 15:45:54
+The main problem that we found to create some head for compatibility.
+
+[Tácito Henrique] 15:46:04
+Sure. Sure.
+
+[Tácito Henrique] 15:46:10
+Sure.
+
+[Arthi Panduranga] 15:46:11
+But also tell me this is for a wireless device where space just can be a problem for a wired device we can release 2 different software's that's what we are saying
+
+[Tácito Henrique] 15:46:24
+Full wire device, we doesn't have this problem about the leases. But, the architecture is different.
+
+[Tácito Henrique] 15:46:34
+The activity of the activity concept is very different from the passive because we need to separate some companies to bring more, bring more independence between them.
+
+[Tácito Henrique] 15:46:48
+Maybe we can think, find a new way to, to create some basic implementation in the feature. But in this point, we are think that the active concept.
+
+[Tácito Henrique] 15:46:59
+It's independent from the last version. We try to bring only the code. And the unified code based.
+
+[Tácito Henrique] 15:47:08
+To don't lost. Everything that we created last year.
+
+[Arthi Panduranga] 15:47:13
+Eastern. Yeah. And what is the compatibility? What's the percentage of code compatibility we are bringing in from the previous year.
+
+[Tácito Henrique] 15:47:14
+Okay.
+
+[Tácito Henrique] 15:47:21
+We are reuse, almost. The user interface, all the user interface. Faults, but in the back end, we need to change it almost everything.
+
+[Tácito Henrique] 15:47:34
+Because to bring more flexible.
+
+[Arthi Panduranga] 15:47:37
+Oh, okay.
+
+[Tácito Henrique] 15:47:40
+Okay. I, I just note in this point. Put this slides. About the Cory API.
+
+[Tácito Henrique] 15:47:53
+The Kori API, the first model. Of this activity, the main responsibility of the QAPI to guarantee the integrity of the solution.
+
+[Tácito Henrique] 15:48:05
+They are responsible to create a a way to authenticate, authorization. And featured Chicago between the plugins of the directory.
+
+[Tácito Henrique] 15:48:15
+Discour API is to enable the some business roles. For example, that's vacations, D to manager, some AI implementations, the process.
+
+[Tácito Henrique] 15:48:28
+Manager, everything is running in Cory API. The core API is the heart of our system. The core API to enable the the full.
+
+[Tácito Henrique] 15:48:38
+Plug-in your directory, the microkernel architecture. I can call it these core APIs.
+
+[Tácito Henrique] 15:48:45
+Our our kernel. Okay, of the system. Discore API has a has a another component, a, message broker that we use it to communicate between the core API and another plugins or another devices.
+
+[Tácito Henrique] 15:49:03
+The message broker will be very useful for us. So update the state. The process, using as a, update for network state.
+
+[Tácito Henrique] 15:49:14
+So the core API is the, the message broker to So. Works correctly. Another future structure that we had that not a component is the plugin structure.
+
+[Tácito Henrique] 15:49:34
+The plug instructor is based on GitHub pages or local and. With this architecture for plugins, we can create Yeah, with separate brains with separate versions.
+
+[Tácito Henrique] 15:49:47
+That looking can be involved over the time. We go to and other plugins. And we can distribute this to book this solution with marketplace of the hub.
+
+[Tácito Henrique] 15:49:59
+Or, GitHub page. We are still thinking the best way of this, but the book, this so, this is the the current way that we found to create a unified.
+
+[Tácito Henrique] 15:50:17
+Solution to distribute you locally. The host device and the tablets device too.
+
+[Tácito Henrique] 15:50:27
+Another point is the client applications. The applications is responsible to launch. The plugins as web pages the main point of the plugins the concept of the blog is for us every plugin is a web page.
+
+[Tácito Henrique] 15:50:43
+With them, we can port this plugin for a host device or a company device without any problem. We can create extra structure with
+
+[Tácito Henrique] 15:50:56
+Some kind of abstraction from that and we can create a new level of the
+
+[Tácito Henrique] 15:51:08
+Independence between the plugin and the device. So for the first device, we are using Electro.
+
+[Tácito Henrique] 15:51:16
+As a base for this web to create these every web page. For the company device we are fingered to use reactive.
+
+[Tácito Henrique] 15:51:24
+We've we're using Wi-Fi. For that.
+
+[Tácito Henrique] 15:51:31
+Another point of this point the client application that they We have to need is only the content for the query P.
+
+[Tácito Henrique] 15:51:41
+Court app. Core app is some kind of web server. Running on the native operation system.
+
+[Tácito Henrique] 15:51:50
+Another point of our directory is about the synchronization. How the state between the device and host device will be synchronized.
+
+[Tácito Henrique] 15:52:00
+1, one way for that. Is using the message broker. Use MQTT protocol for that.
+
+[Tácito Henrique] 15:52:09
+The broker will be responsible to make sure the connection between the host device and the company device. And we update the states between the plugins.
+
+[Tácito Henrique] 15:52:23
+That's, very interesting solution because We can, create some, an off.
+
+[Tácito Henrique] 15:52:34
+Some kind of, how can I say that?
+
+[Tácito Henrique] 15:52:40
+Some kind of, we don't have salary.
+
+[Tácito Henrique] 15:52:46
+We have lost connection between the device and the whole device. We can. We. Yes, more relay, pre label, that's right.
+
+[pedro.trindade@hp.com] 15:52:50
+We can make the connection reliable. We can guarantee, of delivery, for example, we can deliver message and be sure that the other side will receive them.
+
+[pedro.trindade@hp.com] 15:53:03
+And of course we can synchronize the applications in a way that is local first in that sense.
+
+[pedro.trindade@hp.com] 15:53:09
+That we do not need. We can guarantee this synchronization even if some abrupt disconnection happens between the the sources of the messaging which will be the companion in the host device communication.
+
+[pedro.trindade@hp.com] 15:53:26
+Between each other and the plugins inside of it.
+
+[Tácito Henrique] 15:53:30
+Yeah. Even the device lost connection. If you need to send some events for the. The host device is still working when the connection with the direct connection happens.
+
+[Arthi Panduranga] 15:53:46
+Mr. One other question while I'm looking at the synchronization here. Could we investigate in some sort of a mesh network meaning today's today or what do we call it I forget the You, you, compute, right?
+
+[Tácito Henrique] 15:54:01
+Hmm.
+
+[pedro.trindade@hp.com] 15:54:06
+You to peer?
+
+[Tácito Henrique] 15:54:07
+Each of
+
+[Tácito Henrique] 15:54:11
+Hmm, the bit is competing.
+
+[Arthi Panduranga] 15:54:11
+So yes, we spoke about We spoke about hybrid, we spoke about cloud, we spoke about all of that, but say you're working with your host PC and your device the companion device doesn't really have all the resources that you need for AI to work.
+
+[pedro.trindade@hp.com] 15:54:14
+Okay.
+
+[Arthi Panduranga] 15:54:31
+Could you leverage some from your PC because PC has the resources can you use that and create a ubiquitous computing around whatever the resources you have.
+
+[Arthi Panduranga] 15:54:43
+You may have a good dog as well. Eventually docking station might have its own power. I don't know.
+
+[Arthi Panduranga] 15:54:48
+I'm, and I'm thinking. Could you investigate in that direction as a parallel activity to see if something can be delivered?
+
+[Arthi Panduranga] 15:54:56
+So tomorrow in the market, if we have an AI PC. Then the AI PC resources which includes NPUs and GPUs and CPU can maybe together help.
+
+[Arthi Panduranga] 15:55:06
+Better for the local influencing and local training.
+
+[Tácito Henrique] 15:55:10
+Then treating your question because the petro. Already research about this talking with the team. You can share your.
+
+[Arthi Panduranga] 15:55:16
+Oh lovely. Okay. Oh, it's also called ambient compute, right?
+
+[Tácito Henrique] 15:55:23
+You can you can, speak a little bit about the supply. The research that we conducted with the team.
+
+[pedro.trindade@hp.com] 15:55:35
+I or the other payer.
+
+[Tácito Henrique] 15:55:38
+You, you can speak about that. A little bit that supply
+
+[pedro.trindade@hp.com] 15:55:42
+Yeah. So good supply, you mean?
+
+[Tácito Henrique] 15:55:45
+Yeah, it's a, yeah, that's right.
+
+[pedro.trindade@hp.com] 15:55:47
+Yeah, we were studying the possibility to use a ready to go framework to implement the the synchronization and all those parts that are incredibly complicated to implement locally.
+
+[pedro.trindade@hp.com] 15:56:01
+But there is a community of people that try to implement this. Sort of. Solution without a line necessarily on the cloud systems or any external calls to external software for example And we found a interesting runtime built for for this sort of implementation that were called socket supply.
+
+[pedro.trindade@hp.com] 15:56:28
+Yeah. I don't like the name socket supply because it's very ambitious, but it's incredibly interesting because it implements a runtime that is very close to what we have in Electron.
+
+[pedro.trindade@hp.com] 15:56:40
+But it builds for mobile too. The only complication that we found we almost uses as a final solution, but the only complication that we found was that the The team did not.
+
+[pedro.trindade@hp.com] 15:56:58
+It isn't a framework where it has a philosophy that is compatible with the plugin structure.
+
+[pedro.trindade@hp.com] 15:57:05
+So it gives too many. Permissions for the software itself to run inside the front end, you can access many resources behind the.
+
+[pedro.trindade@hp.com] 15:57:15
+And It didn't wasn't secure enough in that sense that we could simply it says that we might need a.
+
+[pedro.trindade@hp.com] 15:57:26
+Audition for audition is at the right term I don't know when you put a nap in a store it might be necessary to guarantee that the source calls itself is reliable instead of simply having the mechanisms behind to guarantee this security for example.
+
+[pedro.trindade@hp.com] 15:57:45
+So we found that it might be not. Right now the expected solution for us not because it didn't comply with the features we're trying to build ourselves but actually because of this beat that actually complicated for us because we didn't want to have a software that would not guarantee a hundred percent reliability.
+
+[pedro.trindade@hp.com] 15:58:12
+Even if the someone tried to implement a plugin that might be malicious for example We want to guarantee that the mechanisms exist under the hood to guarantee.
+
+[pedro.trindade@hp.com] 15:58:26
+Reliability so we don't want to plug in to be able to do malicious stuff on our back end.
+
+[Arthi Panduranga] 15:58:33
+Yes.
+
+[pedro.trindade@hp.com] 15:58:33
+Even if no one is looking for it.
+
+[Arthi Panduranga] 15:58:37
+Makes sense, yeah, okay.
+
+[Tácito Henrique] 15:58:40
+About this, I believe this kind of architecture is very flexible because we can deploy everything locally or we can put some components in cloud, for example.
+
+[Tácito Henrique] 15:58:53
+Creating a hybrid solution. To improve the scalability of the solution. We are right now thinking what the best way to implement that.
+
+[Tácito Henrique] 15:59:02
+For example, we are thinking to use the message broker and some kind of cloud services. To create a way for the device can be autonomous because we without this
+
+[Tácito Henrique] 15:59:18
+This broker online, the the definition of the host device would be Always the problem for or the device.
+
+[pedro.trindade@hp.com] 15:59:31
+Yeah, I think, can I, I think one thing that might be interesting to point out in answering the later question that our team made Is that, in our, in our structure, we're implementing a message broker and in that sense we can reliably lift the implementation the resource comfortability resources from the back end to access from the companion.
+
+[Tácito Henrique] 15:59:32
+This
+
+[Arthi Panduranga] 15:59:58
+You
+
+[pedro.trindade@hp.com] 16:00:00
+So that's why it's actually semi autonomous, right? So we don't want to completely use the resources from the companion device.
+
+[pedro.trindade@hp.com] 16:00:09
+We want to have retreat. To the back end to the AI part.
+
+[Arthi Panduranga] 16:00:14
+Yeah. Got it.
+
+[Tácito Henrique] 16:00:17
+Party before we finish our meeting I do actually talk a lot of another points but I need to ask to you about this.
+
+[Arthi Panduranga] 16:00:21
+Hello.
+
+[Tácito Henrique] 16:00:29
+I will research an alternative before the develop accounts here. Yeah, I'd like to understand how you can use the call for device synchronization.
+
+[Tácito Henrique] 16:00:42
+We need to think, what kind of cloud we can use. And how we can. Bring this possible for this project.
+
+[Tácito Henrique] 16:00:52
+If we you from HP can be bring us some kind of access for the cloud. ARE.
+
+[Tácito Henrique] 16:01:01
+A. Any kind of cloud that we can use. Who implement some broker. Teachers and on other.
+
+[Tácito Henrique] 16:01:10
+Found that we that think that solution that we found is about the Azure communication services. The Azure Communication. S.
+
+[Tácito Henrique] 16:01:21
+Cut in Primly implement the full integration of the without develop account. So I believe this can be another way.
+
+[Tácito Henrique] 16:01:29
+For to implemented things but this some kind of cost evolved.
+
+[Arthi Panduranga] 16:01:29
+Okay. So, Okay, cloud services I've never interacted with anybody but I'll try to find out who who can help us with that.
+
+[Arthi Panduranga] 16:01:43
+As I told you for Zoom I've already reached out maybe we should do a panel investigation whether we can bring the licenses from outside in.
+
+[Arthi Panduranga] 16:01:52
+AGAIN will also be if we have the full teams license right it will be a link. Okay.
+
+[Tácito Henrique] 16:01:58
+Yeah, I put this link in this presentation. So you can access and to understand what we are. Thinking.
+
+[Arthi Panduranga] 16:01:58
+Okay.
+
+[Tácito Henrique] 16:02:06
+Okay. For next meeting, I'd like to show some points about the and the communications. Act that we are thinking about for this project.
+
+[Arthi Panduranga] 16:02:06
+Got it. Yeah.
+
+[Tácito Henrique] 16:02:18
+Okay.
+
+[Arthi Panduranga] 16:02:18
+Okay, and and this phase is almost as we in the call this face has almost been now 2 months so When are we going to start working?
+
+[Arthi Panduranga] 16:02:32
+I mean, are we near the approach of understanding the technical impediments before we go to start execution of several features.
+
+[Arthi Panduranga] 16:02:42
+That's something I wanted to check with you because it's We have done this enough research or research a lot of hard work has gone into it so would like to understand how much more work has gone into it so would like to understand how much more would be pending to it so would like to understand how much more would be pending before we can start planning how much more would be pending before we can start planning the iterations.
+
+[Tácito Henrique] 16:02:58
+Great. I will create a roadmap. For you with the tailored to ask what would you like to deliver over the months.
+
+[Tácito Henrique] 16:03:06
+And what the painting or we can go through the implementations right now. Okay, I would you in this week I will present to you next week.
+
+[Tácito Henrique] 16:03:17
+Can be okay to you?
+
+[Arthi Panduranga] 16:03:17
+That makes sense. Yeah, yeah, that's good. That's good. And next week, Tacito, we should move it up by one more.
+
+[Arthi Panduranga] 16:03:25
+I mean, It should be one or before, not the current time. But I don't have the privilege to change it, so maybe, does and so it's not there so maybe we should leave cancel that call and have a session before that time.
+
+[Tácito Henrique] 16:03:28
+Go forward.
+
+[Tácito Henrique] 16:03:41
+Okay, don't worry. For me, it's okay.
+
+[Arthi Panduranga] 16:03:42
+Yep. Thank you everybody. Thank you. Great work.
+
+[Tácito Henrique] 16:03:45
+Thank you. Have a great week. Bye bye
+
+[Arthi Panduranga] 16:03:48
+Thank you. Bye
+
