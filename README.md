@@ -1,9 +1,9 @@
-Algoritmo Híbrido de Reconhecimento de Entidades (NER)
-Um protótipo para extrair e classificar entidades nomeadas de transcrições de reuniões, utilizando uma abordagem híbrida com SpaCy.
+# Algoritmo Híbrido de Reconhecimento de Entidades (NER)
+## Um protótipo para extrair e classificar entidades nomeadas de transcrições de reuniões, utilizando uma abordagem híbrida com SpaCy.
 
 Este projeto foi desenvolvido como uma tarefa prática para aplicar conhecimentos em Processamento de Linguagem Natural (PLN). O objetivo principal é analisar textos não estruturados, como a transcrição da reunião da PDW, e extrair informações valiosas de forma automatizada.
 
-Principais Funcionalidades
+### Principais Funcionalidades
 Análise de Texto em Inglês: O algoritmo é configurado para processar textos no idioma inglês.
 
 Extração Híbrida de Entidades: Utiliza uma abordagem em duas camadas para garantir tanto a amplitude quanto a precisão:
@@ -16,7 +16,7 @@ Visualização de Resultados: Gera um gráfico de barras com a biblioteca Matplo
 
 Exportação do Gráfico: Salva o gráfico gerado como um arquivo de imagem (.png) no diretório do projeto.
 
-Como Funciona (Pipeline)
+### Como Funciona (Pipeline)
 O fluxo de trabalho do algoritmo segue 4 etapas principais:
 
 Leitura do Arquivo: O script inicia lendo um arquivo de texto (.txt) que contém a transcrição da reunião.
@@ -30,7 +30,7 @@ Geração do Gráfico: A contagem de cada tipo de entidade é calculada e um gr�
 Configuração do Ambiente
 Siga os passos abaixo para executar o projeto.
 
-Pré-requisitos
+### Pré-requisitos
 Python 3.8 ou superior
 
 pip (gerenciador de pacotes do Python)
@@ -62,7 +62,7 @@ Gerar e salvar um gráfico chamado contagem_entidades.png no mesmo diretório.
 Exemplo de Saída
 Após a execução, um gráfico como este será gerado, mostrando a distribuição das entidades encontradas:
 
-Próximos Passos
+### Próximos Passos
 Este protótipo serviu como uma base fundamental para validar a tecnologia e planejar a evolução do projeto. Os próximos passos incluem:
 
 Validação de Casos de Uso: Detalhar e priorizar as aplicações práticas do NER para o negócio.
