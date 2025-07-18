@@ -1,43 +1,72 @@
+Algoritmo Híbrido de Reconhecimento de Entidades (NER)
+Um protótipo para extrair e classificar entidades nomeadas de transcrições de reuniões, utilizando uma abordagem híbrida com SpaCy.
 
-# Mini-Projeto: Reconhecimento de Entidades Nomeadas (NER) em Português
+Este projeto foi desenvolvido como uma tarefa prática para aplicar conhecimentos em Processamento de Linguagem Natural (PLN). O objetivo principal é analisar textos não estruturados, como a transcrição da reunião da PDW, e extrair informações valiosas de forma automatizada.
 
-Este repositório contém um mini-projeto de Reconhecimento de Entidades Nomeadas (NER) desenvolvido como parte de um estágio em Ciência de Dados e Inteligência Artificial. O projeto foca em demonstrar a aplicação básica de técnicas de NER para extrair informações estruturadas de textos, com um olhar para um domínio específico (reuniões).
+Principais Funcionalidades
+Análise de Texto em Inglês: O algoritmo é configurado para processar textos no idioma inglês.
 
-## 1\. Visão Geral do Projeto
+Extração Híbrida de Entidades: Utiliza uma abordagem em duas camadas para garantir tanto a amplitude quanto a precisão:
 
-O principal objetivo deste mini-projeto é consolidar o entendimento prático do NER e sua aplicação, especialmente na identificação de entidades comuns e na simulação da extração de entidades customizadas relevantes para um contexto específico de negócios. O projeto utiliza a biblioteca SpaCy para processamento de linguagem natural e o Pandas para estruturação dos dados.
+Modelo Pré-treinado: Usa o modelo en_core_web_lg do SpaCy para identificar entidades genéricas como PERSON (Pessoas), ORG (Organizações) e DATE (Datas).
 
-## 2\. Funcionalidades e Aprendizados
+Regras Customizadas: Emprega o PhraseMatcher para encontrar e classificar com precisão um dicionário de termos específicos do negócio, como CARGO e TERMO_TEC.
 
-  * **Aplicação de NER Pré-treinado:** Utiliza um modelo pré-treinado da biblioteca SpaCy (especificamente para o português, `pt_core_news_sm`) para identificar e extrair entidades padrão (como Pessoas, Locais, Organizações e Datas) de textos não estruturados.
-  * **Simulação de Entidades Customizadas:** Para demonstrar a necessidade e o potencial do NER em domínios específicos, o projeto simula a extração de entidades customizadas como `CARGOS`, `ÁREA` e `TERMOS_TECNOLÓGICOS`, que são cruciais para a análise de atas de reunião.
-  * **Estruturação de Dados com Pandas:** As entidades extraídas (tanto as padrão do SpaCy quanto as customizadas simuladas) são organizadas e apresentadas em um Pandas DataFrame. Essa estruturação é um esboço prático de como os dados de entrada e saída de um sistema NER seriam representados em um pipeline de IA maior.
-  * **Conexão com o Projeto Principal (PDW):** Este mini-projeto serve como um fundamento prático para o desenvolvimento futuro de um algoritmo de NER para o projeto PDW, ajudando a visualizar a modelagem de dados e o formato esperado das saídas.
+Visualização de Resultados: Gera um gráfico de barras com a biblioteca Matplotlib, mostrando a contagem total de cada tipo de entidade encontrada, facilitando a análise dos resultados.
 
-## 3\. Como Executar o Projeto
+Exportação do Gráfico: Salva o gráfico gerado como um arquivo de imagem (.png) no diretório do projeto.
 
-Para rodar este mini-projeto em sua máquina local, siga os passos abaixo:
+Como Funciona (Pipeline)
+O fluxo de trabalho do algoritmo segue 4 etapas principais:
 
-1.  **Clone o Repositório:**
-    ```bash
-    git clone <URL_DO_SEU_REPOSITÓRIO>
-    cd seu-projeto-ner
-    ```
-2.  **Crie e Ative um Ambiente Virtual:**
-    É altamente recomendável utilizar um ambiente virtual para gerenciar as dependências do projeto.
-    ```bash
-    python -m venv .venv
-    # No Windows (Cmd): .\.venv\Scripts\activate.bat
-    # No Windows (PowerShell): .\.venv\Scripts\Activate.ps1
-    # No macOS/Linux: source ./.venv/bin/activate
-    ```
-3.  **Instale as Dependências:**
-    Com o ambiente virtual ativado, instale as bibliotecas necessárias listadas no arquivo `requirements.txt`.
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *Obs: Certifique-se de que o modelo do SpaCy (`pt_core_news_sm` ou `en_core_web_sm`) também foi baixado. Se não, execute no terminal com o ambiente ativo: `python -m spacy download pt_core_news_sm`.*
-4.  **Execute o Notebook/Script:**
-    Abra o arquivo Jupyter Notebook (`seu_notebook.ipynb`) no VS Code (certifique-se de que o kernel do ambiente virtual está selecionado) e execute as células, ou execute o script Python (`seu_script.py`) diretamente.
+Leitura do Arquivo: O script inicia lendo um arquivo de texto (.txt) que contém a transcrição da reunião.
 
+Processamento Híbrido: O texto é processado pelo SpaCy. O modelo de IA identifica as entidades gerais, enquanto o PhraseMatcher busca no mesmo texto os termos customizados definidos nas listas.
 
+Análise e Contagem: Todas as entidades coletadas (padrão e customizadas) são organizadas em um DataFrame com a biblioteca Pandas para facilitar a manipulação.
+
+Geração do Gráfico: A contagem de cada tipo de entidade é calculada e um gráfico de barras horizontal é gerado com Matplotlib, exibindo visualmente a frequência de cada categoria.
+
+Configuração do Ambiente
+Siga os passos abaixo para executar o projeto.
+
+Pré-requisitos
+Python 3.8 ou superior
+
+pip (gerenciador de pacotes do Python)
+
+Instalação
+Clone este repositório (ou simplesmente crie uma pasta com os arquivos).
+
+Instale as bibliotecas necessárias:
+
+pip install spacy pandas matplotlib
+
+Baixe o modelo de linguagem do SpaCy para inglês:
+
+python -m spacy download en_core_web_lg
+
+Como Usar
+Coloque o arquivo com a transcrição da reunião na mesma pasta que o script principal. O código espera um arquivo chamado PDW_Meeting_Follow_UP_03122024.txt.
+
+Execute o script Python pelo terminal:
+
+python seu_script.py
+
+O script irá:
+
+Exibir no terminal uma tabela com as entidades encontradas.
+
+Gerar e salvar um gráfico chamado contagem_entidades.png no mesmo diretório.
+
+Exemplo de Saída
+Após a execução, um gráfico como este será gerado, mostrando a distribuição das entidades encontradas:
+
+Próximos Passos
+Este protótipo serviu como uma base fundamental para validar a tecnologia e planejar a evolução do projeto. Os próximos passos incluem:
+
+Validação de Casos de Uso: Detalhar e priorizar as aplicações práticas do NER para o negócio.
+
+Criação de Dataset Customizado: Iniciar o processo de coleta e anotação de dados internos para treinar um modelo especialista.
+
+Fine-Tuning do Modelo: Utilizar o dataset customizado para especializar um modelo de linguagem (como os da família BERT/Transformers), visando uma precisão e capacidade de generalização ainda maiores.
